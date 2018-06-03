@@ -204,7 +204,7 @@ h6, .h6 {
 }
 
 .ets-introduction {
-    width: calc(23% + 115px);
+    width: calc(13% + 85px);
 }
 
 @media print, screen and (max-width: 40em) {
