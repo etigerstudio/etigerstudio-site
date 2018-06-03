@@ -37,7 +37,7 @@ h6, .h6 {
 }
 
 @media print, screen and (max-width: 40em) {
-    ets-card {
+    .ets-card {
         margin-top: 24px;
         margin-bottom: 24px;
     }
