@@ -55,7 +55,7 @@ h6, .h6 {
     width: 76px;
     height: 76px;
     margin-bottom: 8px;
-    background: url(../img/hero-icons.png) no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/etigerstudio/etigerstudio-site@latest/img/hero-icons.png) no-repeat;
     background-size: 304px 152px;
     display: inline-block;
     vertical-align: middle;
@@ -217,12 +217,12 @@ h6, .h6 {
     display: block;
     width: 28px;
     height: 28px;
-    background: url(../img/hero-icons.png) no-repeat -228px -64px;
+    background: url(https://cdn.jsdelivr.net/gh/etigerstudio/etigerstudio-site@latest/img/hero-icons.png) no-repeat -228px -64px;
     background-size: 304px 152px;
 }
 
 .ets-link-github:hover {
-    background: url(../img/hero-icons.png) no-repeat -228px -92px;
+    background: url(https://cdn.jsdelivr.net/gh/etigerstudio/etigerstudio-site@latest/img/hero-icons.png) no-repeat -228px -92px;
     background-size: 304px 152px;
 }
 
