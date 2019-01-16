@@ -219,11 +219,11 @@ h6, .h6 {
     height: 28px;
     background: url(../img/hero-icons.png) no-repeat -228px -64px;
     background-size: 304px 152px;
-    opacity: 0.4;
 }
 
 .ets-link-github:hover {
-    opacity: 0.7;
+    background: url(../img/hero-icons.png) no-repeat -228px -92px;
+    background-size: 304px 152px;
 }
 
 .ets-link-footer {
@@ -238,7 +238,7 @@ h6, .h6 {
 
 .ets-link-header {
     display: none;
-    margin-top: 3vh;
+    margin-top: calc(1vh + 20px);
 }
 
 @media print, screen and (min-width: 40em) {
@@ -249,7 +249,8 @@ h6, .h6 {
 
 .ets-copyright {
     font-size: 12px;
-    color: rgba(0, 0, 0, 0.4);
+    margin-top: 8px;
+    color: rgba(0, 33, 135, 0.4);
 }
 
 .ets-link-wrapper {
